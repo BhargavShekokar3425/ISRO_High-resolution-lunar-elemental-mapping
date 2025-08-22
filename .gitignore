@@ -2,4 +2,5 @@
 *.csv
 
 # Ignore the Deliverables/Subpixel Resolution Maps directory
-Deliverables/
+Deliverables/Subpixel Resolution Maps/
+Deliverables/Best Ratios/Coverage Maps - Kriged Ratios/
